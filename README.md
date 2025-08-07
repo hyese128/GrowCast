@@ -46,9 +46,9 @@ The following user inputs are required from the left sidebar:
 ### ▶️ Prediction Steps
 
 1. After entering all values, click the **"Predict"** button.
-2. Switch to the **"Predictions"** tab on the right panel to view results:
-   - **Predicted Height**: Graph showing estimated future height with uncertainty ribbons.
-   - **Predicted Percentile Score**: Graph showing estimated percentile scores over time.
+2. Will automatically switch to the **"Predictions"** tab on the right panel to view results:
+   - **Predicted Height**: Graph showing predicted height with uncertainty ribbons.
+   - **Predicted Percentile Score**: Graph showing predicted percentile scores over time.
 3. The **"Instruction"** tab provides a visual guide for using the app.
 
 ---
