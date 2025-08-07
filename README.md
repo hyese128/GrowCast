@@ -10,10 +10,9 @@ The model incorporates a first-order Taylor approximation approach to generate a
 
 - Web-based (R-Shiny)
 - Predicts future height and percentile scores based on patient inputs
+- Fully **reactive interface** — outputs update instantly based on user inputs
+- **User-friendly UI** with intuitive layout and clear input guidance
 - Incorporates statistical variability with prediction intervals
-- Visual and interactive output using `plotly`
-- Instructional image guide included in the interface
-
 ---
 
 ## Required R Packages
