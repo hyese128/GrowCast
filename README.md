@@ -3,7 +3,7 @@
 GrowCast is a web-based R-Shiny application designed to predict the growth hormone (GH) treatment effect in patients with idiopathic short stature (ISS).  
 By entering basic patient information and GH treatment parameters, the app provides visual predictions of future height and percentile scores.  
 The model incorporates a first-order Taylor approximation approach to generate accurate and interpretable forecasts.
-
+A running version of the app can be found here: https://hyese.shinyapps.io/GrowCast/
 ---
 
 ## Features
