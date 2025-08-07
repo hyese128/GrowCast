@@ -28,12 +28,6 @@ The model incorporates a first-order Taylor approximation approach to generate a
 
 ## Instruction
 
-### 📁 Upload file tab
-
-- `www/control_0418.csv`: Reference dataset used to calculate percentile scores  
-- `www/instruction2.png`: Instructional image shown in the first tab
-
----
 
 ### 🧾 Input Panel
 
