@@ -60,7 +60,3 @@ Two main interactive plots are provided:
 - **Predicted Height**: Mean height trajectory and 10–90% prediction intervals.
 - **Predicted Percentile Score**: Mean percentile score and uncertainty intervals.
 
----
-
-## 📂 Folder Structure
-
