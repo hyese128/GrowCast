@@ -34,12 +34,12 @@ The model incorporates a first-order Taylor approximation approach to generate a
 The following user inputs are required from the left sidebar:
 
 - **Age at First Treatment** (months)
-- **Daily GH Dose**
+- **Daily Growth hormone Dose**
 - **Weight** (kg)
 - **Height** (cm)
 - **Father’s Height** (cm)
 - **IGFBP3 Level** (ng/mL)
-- **Sex** (`Male = 0`, `Female = 1`)
+- **Sex** (Male or Female)
 
 ---
 
